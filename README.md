@@ -36,3 +36,27 @@ A fun arcade-style game where you chop trees as fast as you can—before time ru
 ```bash
 g++ -o timber timber.cpp -lsfml-graphics -lsfml-window -lsfml-system
 ./timber
+
+
+📦 timber-game/
+├── timber.cpp
+├── README.md
+├── graphics/
+│   ├── background.png
+│   ├── tree.png
+│   ├── bee.png
+│   ├── cloud.png
+│   ├── player.png
+│   ├── axe.png
+│   ├── log.png
+│   ├── rip.png
+│   └── branch.png
+├── fonts/
+│   └── KOMIKAP_.ttf
+
+
+
+---
+
+Let me know if you want this uploaded into a ready-made GitHub repo or zipped folder with everything. I can also help with the `CMakeLists.txt` or GitHub Pages deployment.
+
